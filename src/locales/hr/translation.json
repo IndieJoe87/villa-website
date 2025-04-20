@@ -1,0 +1,35 @@
+{
+  "common": {
+    "villa_name": "Villa 50 SHADES OF GREY",
+    "book_now": "Rezerviraj Odmah",
+    "check_availability": "Provjeri Dostupnost",
+    "learn_more": "Saznaj Više",
+    "contact_us": "Kontaktirajte Nas"
+  },
+  "navigation": {
+    "home": "Početna",
+    "about": "O Nama",
+    "gallery": "Galerija",
+    "amenities": "Sadržaji",
+    "location": "Lokacija",
+    "booking": "Rezervacije",
+    "reviews": "Recenzije",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "local_area": "Lokalno Područje",
+    "special_offers": "Posebne Ponude"
+  },
+  "home": {
+    "hero_title": "Doživite luksuz u Hrvatskoj",
+    "hero_subtitle": "Moderna vila s bazenom i prekrasnim pogledom u Štinjanu",
+    "welcome_title": "Dobrodošli u Villu 50 SHADES OF GREY",
+    "welcome_text": "Moderna vila s prostorom za zabavu na otvorenom i bazenom, smještena na izvrsnoj lokaciji za odmor u mirnom području, s lijepim pogledom na prirodu."
+  },
+  "footer": {
+    "copyright": "© 2025 Villa 50 SHADES OF GREY. Sva prava pridržana.",
+    "privacy_policy": "Politika privatnosti",
+    "terms_of_service": "Uvjeti korištenja",
+    "sitemap": "Mapa stranice",
+    "follow_us": "Pratite nas"
+  }
+}
