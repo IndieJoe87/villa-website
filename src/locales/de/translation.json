@@ -1,0 +1,35 @@
+{
+  "common": {
+    "villa_name": "Villa 50 SHADES OF GREY",
+    "book_now": "Jetzt Buchen",
+    "check_availability": "Verfügbarkeit Prüfen",
+    "learn_more": "Mehr Erfahren",
+    "contact_us": "Kontakt"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "about": "Über Uns",
+    "gallery": "Galerie",
+    "amenities": "Ausstattung",
+    "location": "Lage",
+    "booking": "Buchung",
+    "reviews": "Bewertungen",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "local_area": "Umgebung",
+    "special_offers": "Sonderangebote"
+  },
+  "home": {
+    "hero_title": "Erleben Sie Luxus in Kroatien",
+    "hero_subtitle": "Moderne Villa mit Pool und atemberaubender Aussicht in Štinjan",
+    "welcome_title": "Willkommen in der Villa 50 SHADES OF GREY",
+    "welcome_text": "Eine moderne Villa mit Unterhaltungsbereich im Freien und Pool, in einer ausgezeichneten Urlaubslage in einer ruhigen Gegend, mit schöner Aussicht auf die Natur."
+  },
+  "footer": {
+    "copyright": "© 2025 Villa 50 SHADES OF GREY. Alle Rechte vorbehalten.",
+    "privacy_policy": "Datenschutzrichtlinie",
+    "terms_of_service": "Nutzungsbedingungen",
+    "sitemap": "Seitenübersicht",
+    "follow_us": "Folgen Sie uns"
+  }
+}
